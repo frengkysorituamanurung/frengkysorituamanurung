@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frengkymanurung" alt="frengkymanurung" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://frengkymanurung.netlify.app/](https://frengkymanurung.netlify.app/)
+- 👨‍💻 All of my projects are available at target="_blank" [https://frengkymanurung.netlify.app/](https://frengkymanurung.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
