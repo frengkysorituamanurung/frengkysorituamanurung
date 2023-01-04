@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Frengky Manurung</h1>
 <h3 align="center">Computer Enginerring student. Focusing on Web Development and interested in UI/UX Design.</h3>
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frengkymanurung" alt="frengkymanurung" /></a> </p>
 
-- 👨‍💻 All of my projects are available at target="_blank" [https://frengkymanurung.netlify.app/](https://frengkymanurung.netlify.app/)
+- 👨‍💻 All of my projects are available at <a href="https://frengkymanurung.netlify.app/" target="_blank" >here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
